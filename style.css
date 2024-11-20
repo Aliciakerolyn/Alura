@@ -1,3 +1,13 @@
 body{
     font-family: "Poppins", sans-serif;
-}
+    background: black;
+    color:pink;
+    margin: 0px;
+    margin-bottom: 100px;
+}  
+.chamada{
+    background:wheat;
+    display:flex;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
